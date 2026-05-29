@@ -46,24 +46,24 @@ OIBSIP/
 │
 ├── README.md
 │
-├── Task_1_Voice_Assistant/
+├── Shawn_Task_1/
 │   ├── voice_assistant.py
 │   └── README.md
 │
-├── Task_2_BMI_Calculator/
+├── Shawn_Task_2/
 │   ├── bmi_calculator.py
 │   └── README.md
 │
-├── Task_3_Password_Generator/
+├── Shawn_Task_3/
 │   ├── password_generator.py
 │   └── README.md
 │
-├── Task_4_Weather_App/
+├── Shawn_Task_4/
 │   ├── weather_app.py
 │   ├── .env              ← (API key stored here, NOT pushed to GitHub)
 │   └── README.md
 │
-└── Task_5_Chat_Application/
+└── Shawn_Task_5/
     ├── server.py
     ├── client.py
     └── README.md
@@ -73,7 +73,7 @@ OIBSIP/
 
 ## Project 1 — Voice Assistant
 
-**Folder:** `Task_1_Voice_Assistant/`
+**Folder:** `Shawn_Task_1/`
 
 ### Description
 A Python-based voice assistant that listens to voice commands and responds. It can greet the user, tell the current time and date, and search Google based on queries.
@@ -94,7 +94,7 @@ A Python-based voice assistant that listens to voice commands and responds. It c
 
 ### How to Run
 ```bash
-cd Task_1_Voice_Assistant
+cd Shawn_Task_1
 pip install SpeechRecognition pyttsx3 pyaudio
 python voice_assistant.py
 ```
@@ -103,7 +103,7 @@ python voice_assistant.py
 
 ## Project 2 — BMI Calculator
 
-**Folder:** `Task_2_BMI_Calculator/`
+**Folder:** `Shawn_Task_2/`
 
 ### Description
 A GUI-based Body Mass Index (BMI) calculator built with Tkinter. Users can enter weight and height, calculate their BMI, view their health category, and track BMI history with a trend graph.
@@ -123,7 +123,7 @@ A GUI-based Body Mass Index (BMI) calculator built with Tkinter. Users can enter
 
 ### How to Run
 ```bash
-cd Task_2_BMI_Calculator
+cd Shawn_Task_2
 pip install matplotlib
 python bmi_calculator.py
 ```
@@ -132,7 +132,7 @@ python bmi_calculator.py
 
 ## Project 3 — Random Password Generator
 
-**Folder:** `Task_3_Password_Generator/`
+**Folder:** `Shawn_Task_3/`
 
 ### Description
 A GUI application that generates strong, random passwords based on user-defined criteria including length, and inclusion of uppercase letters, numbers, and special symbols.
@@ -153,7 +153,7 @@ A GUI application that generates strong, random passwords based on user-defined 
 
 ### How to Run
 ```bash
-cd Task_3_Password_Generator
+cd Shawn_Task_3
 pip install pyperclip
 python password_generator.py
 ```
@@ -162,7 +162,7 @@ python password_generator.py
 
 ## Project 4 — Weather App
 
-**Folder:** `Task_4_Weather_App/`
+**Folder:** `Shawn_Task_4/`
 
 ### Description
 A weather application that fetches real-time weather data from the OpenWeatherMap API and displays it in a clean GUI. Users can search any city to get temperature, humidity, wind speed and weather description.
@@ -183,7 +183,7 @@ A weather application that fetches real-time weather data from the OpenWeatherMa
 
 ### How to Run
 ```bash
-cd Task_4_Weather_App
+cd Shawn_Task_4
 pip install requests python-dotenv
 # Add your API key in a .env file: API_KEY=your_key_here
 python weather_app.py
@@ -195,7 +195,7 @@ python weather_app.py
 
 ## Project 5 — Chat Application
 
-**Folder:** `Task_5_Chat_Application/`
+**Folder:** `Shawn_Task_5/`
 
 ### Description
 A real-time chat application built using Python's socket and threading modules. Implements a client-server architecture where multiple clients can connect to a server and exchange messages.
@@ -214,7 +214,7 @@ A real-time chat application built using Python's socket and threading modules. 
 
 ### How to Run
 ```bash
-cd Task_5_Chat_Application
+cd Shawn_Task_5
 
 # Terminal 1 — Start the server
 python server.py
@@ -236,7 +236,7 @@ python client.py
 - [ ] Video demo recorded for each project
 - [ ] Video shared on LinkedIn with hashtags: `#oasisinfobyte #oasisinfobytefamily #internship #python`
 - [ ] Submitted via the official batch submission form
-- [ ] File naming format followed: `ShawnSreeju_Task1`, `ShawnSreeju_Task2`, etc.
+- [ ] File naming format followed: `Shawn_Task1`, `Shawn_Task2`, etc.
 
 ---
 
