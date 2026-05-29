@@ -172,5 +172,5 @@ matplotlib==3.7.0
 ## 📎 Submission Details
 
 - **File Name:** `Shawn_Task_2`
-- **GitHub Repo:** `https://github.com/HACKER3S/OIBSIP/tree/main/Task_2_BMI_Calculator`
+- **GitHub Repo:** `https://github.com/HACKER3S/OIBSIP/tree/main/Shawn_Task_2`
 - **LinkedIn Post:** [Link after posting]
