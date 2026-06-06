@@ -1,0 +1,4 @@
+$ # No external dependencies required.
+# Uses only Python built-in modules:
+# socket, threading, tkinter
+
