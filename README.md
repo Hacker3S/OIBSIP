@@ -29,13 +29,12 @@
 
 | # | Project | Description | Tech Stack | Status | Demo |
 |---|---------|-------------|------------|--------|------|
-| 1 | [Voice Assistant](#project-1--voice-assistant) | A voice-controlled assistant that responds to commands, tells time/date, and searches the web | Python, SpeechRecognition, pyttsx3 | ⏳ Pending | — |
-| 2 | [BMI Calculator](#project-2--bmi-calculator) | GUI-based BMI calculator with health categorization, data storage and trend visualization | Python, Tkinter, Matplotlib | ⏳ Pending | — |
-| 3 | [Random Password Generator](#project-3--random-password-generator) | Generates strong passwords with GUI, complexity options and clipboard copy support | Python, Tkinter, pyperclip | ⏳ Pending | — |
-| 4 | [Weather App](#project-4--weather-app) | Fetches real-time weather data from an API and displays temperature, humidity, conditions | Python, Tkinter, OpenWeatherMap API | ⏳ Pending | — |
-| 5 | [Chat Application](#project-5--chat-application) | Real-time client-server chat application using socket programming | Python, socket, threading | ⏳ Pending | — |
+| 1 | [Voice Assistant](#project-1--voice-assistant) | A voice-controlled assistant that responds to commands, tells time/date, and searches the web | Python, SpeechRecognition, pyttsx3 | ✅ Completed |
+| 2 | [BMI Calculator](#project-2--bmi-calculator) | GUI-based BMI calculator with health categorization, data storage and trend visualization | Python, Tkinter, Matplotlib | ✅ Completed |
+| 3 | [Random Password Generator](#project-3--random-password-generator) | Generates strong passwords with GUI, complexity options and clipboard copy support | Python, Tkinter, pyperclip | ✅ Completed |
+| 4 | [Weather App](#project-4--weather-app) | Fetches real-time weather data from an API and displays temperature, humidity, conditions | Python, Tkinter, OpenWeatherMap API | ✅ Completed |
+| 5 | [Chat Application](#project-5--chat-application) | Real-time client-server chat application using socket programming | Python, socket, threading | ✅ Completed |
 
-> ✅ Update the Status column as you complete each project. Change ⏳ Pending → 🔄 In Progress → ✅ Completed
 
 ---
 
@@ -258,13 +257,13 @@ python client.py
 
 - 🌐 Oasis Infobyte: [oasisinfobyte.com](https://oasisinfobyte.com)
 - 💬 Telegram Community: [t.me/oasisinfobyte](https://t.me/oasisinfobyte)
-- 📋 Submission Form: *(Use link from your offer letter)*
+- 📋 Submission Form: https://docs.google.com/forms/d/e/1FAIpQLSdMLWyVsC4wrp8au_9ef0ROvfRMLGj9iHU-oyW_QHB3s4jVIA/closedform
 
 ---
 
 ## 📜 Certificate
 
-> Certificates are issued only after successful evaluation of all submitted projects. Ensure submissions are complete, original, well-documented, and include a video demonstration.
+> Certificates are issued only after successful evaluation of all submitted projects.
 
 ---
 
