@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Intern-Shawn%20Sreeju%20Sampath-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Domain-Python%20Programming-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Organization-Oasis%20Infobyte-darkblue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-green?style=for-the-badge" />
 </p>
 
 ---
@@ -27,8 +27,8 @@
 
 ## 📁 Project Overview
 
-| # | Project | Description | Tech Stack | Status | Demo |
-|---|---------|-------------|------------|--------|------|
+| # | Project | Description | Tech Stack | Status |
+|---|---------|-------------|------------|--------|
 | 1 | [Voice Assistant](#project-1--voice-assistant) | A voice-controlled assistant that responds to commands, tells time/date, and searches the web | Python, SpeechRecognition, pyttsx3 | ✅ Completed |
 | 2 | [BMI Calculator](#project-2--bmi-calculator) | GUI-based BMI calculator with health categorization, data storage and trend visualization | Python, Tkinter, Matplotlib | ✅ Completed |
 | 3 | [Random Password Generator](#project-3--random-password-generator) | Generates strong passwords with GUI, complexity options and clipboard copy support | Python, Tkinter, pyperclip | ✅ Completed |
